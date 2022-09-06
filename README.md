@@ -1,7 +1,6 @@
 > ## Curso {node4dev}
 
 **API completa com Typescript utilizando TDD, Clean Architecture, Design Patterns e SOLID**
-## [**Link para o curso completo**](https://www.udemy.com/course/tdd-com-mango/?referralCode=B53CE5CA2B9AFA5A6FA1)
 
 Essa API faz parte do treinamento do professor Rodrigo Manguinho (Mango) na Udemy.
 
