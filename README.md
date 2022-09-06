@@ -1,4 +1,4 @@
-** API completa com Typescript utilizando TDD, Clean Architecture, Design Patterns e SOLID**
+# API completa com Typescript utilizando TDD, Clean Architecture, Design Patterns e SOLID**
 
 Essa API faz parte do treinamento do professor Rodrigo Manguinho (Mango) na Udemy.
 
